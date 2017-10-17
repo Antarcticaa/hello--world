@@ -1,10 +1,10 @@
  #include<stdio.h>
  int main(void)
  {
- int a,b,c;
- a=-2;
- b=-2;
+ double a,b,c;
+ a=9.2;
+ b=8.2; 
  c=a+b;
- printf("c=%d.\n",c);
+ printf("c=%f.\n",c);
  return 0;
    } 
